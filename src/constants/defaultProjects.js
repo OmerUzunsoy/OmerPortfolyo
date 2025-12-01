@@ -11,7 +11,7 @@ const defaultProjects = [
         tags: ['ASP.NET Core', 'C#', 'JWT', 'Entity Framework', 'REST API', 'Swagger'],
         image: '/images/projects/ecommerce-api.jpg',
         github: 'https://github.com/OmerUzunsoy/E-Ticaret-Backend-JWT-Auth-',
-        download: '#',
+        download: 'https://github.com/OmerUzunsoy/E-Ticaret-Backend-JWT-Auth-/archive/refs/heads/main.zip',
         lastUpdate: '2024-11-29'
     },
     {
@@ -26,7 +26,7 @@ const defaultProjects = [
         tags: ['ASP.NET Core', 'C#', 'Entity Framework', 'SQL Server', 'Docker', 'REST API'],
         image: '/images/projects/film-arsivi.jpg',
         github: 'https://github.com/OmerUzunsoy/FilmArsivi-API',
-        download: '#',
+        download: 'https://github.com/OmerUzunsoy/FilmArsivi-API/archive/refs/heads/master.zip',
         lastUpdate: '2024-11-28'
     },
     {
@@ -41,7 +41,7 @@ const defaultProjects = [
         tags: ['C#', '.NET', 'ADO.NET', 'SQL Server', 'Console App'],
         image: '/images/projects/library-manager.jpg',
         github: 'https://github.com/OmerUzunsoy/LibraryManager',
-        download: '#',
+        download: 'https://github.com/OmerUzunsoy/LibraryManager/archive/refs/heads/master.zip',
         lastUpdate: '2024-11-27'
     },
     {
@@ -56,7 +56,7 @@ const defaultProjects = [
         tags: ['C#', '.NET', 'System.IO', 'Console App', 'File Operations'],
         image: '/images/projects/note-taker.jpg',
         github: 'https://github.com/OmerUzunsoy/NoteTaker',
-        download: '#',
+        download: 'https://github.com/OmerUzunsoy/NoteTaker/archive/refs/heads/master.zip',
         lastUpdate: '2024-11-26'
     },
     {
@@ -71,7 +71,7 @@ const defaultProjects = [
         tags: ['C#', '.NET 9', 'Console App', 'Banking', 'Simulation'],
         image: '/images/projects/console-bank.jpg',
         github: 'https://github.com/OmerUzunsoy/ConsoleBank',
-        download: '#',
+        download: 'https://github.com/OmerUzunsoy/ConsoleBank/archive/refs/heads/master.zip',
         lastUpdate: '2024-11-25'
     },
     {
