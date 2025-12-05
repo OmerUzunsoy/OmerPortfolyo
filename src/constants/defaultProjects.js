@@ -12,8 +12,8 @@ const defaultProjects = [
         tags: ['Kotlin', 'Android', 'ExoPlayer', 'Retrofit', 'Room Database', 'MVVM', 'Android TV'],
         image: '/images/projects/uzuns-iptv.jpg',
         github: 'https://github.com/OmerUzunsoy/UzunsIPTV',
-        download: 'https://github.com/OmerUzunsoy/UzunsIPTV/archive/refs/heads/main.zip',
-        lastUpdate: '2024-12-03'
+        download: 'https://github.com/OmerUzunsoy/UzunsIPTV/releases/download/v1.0.0/UzunsIPTV-v1.0.0.apk',
+        lastUpdate: '2024-12-05'
     },
     {
         id: 1,
